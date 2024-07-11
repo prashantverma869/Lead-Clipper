@@ -1,0 +1,14 @@
+{
+  "name": "extension",
+  "description":"the extension saves and makes a list of links put in the input field and also saves the current tab", 
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
